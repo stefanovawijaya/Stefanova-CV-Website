@@ -133,7 +133,6 @@ header{
 }
 
 .link-web{
-    text-decoration: none;
     color: black;
     font-size: 20px;
     margin-left: 8px;
@@ -492,4 +491,5 @@ footer a{
 
 footer p{
     margin-top: 50px;
+
 }
